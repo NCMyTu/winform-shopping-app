@@ -5,3 +5,4 @@ A simple WinForms-based shopping application. This application doesn't rely on a
 - Simple CRUD operations for managing shopping items.
 - Simple registration.
 - Users can be both sellers or buyers.
+- Users can comment on and rate items
